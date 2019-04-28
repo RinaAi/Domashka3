@@ -4,6 +4,9 @@
         <TargetFramework>netcoreapp2.2</TargetFramework>
         <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
         <RootNamespace>NewAPI</RootNamespace>
+        <ApplicationIcon />
+        <OutputType>WinExe</OutputType>
+        <StartupObject />
     </PropertyGroup>
 
     <ItemGroup>
